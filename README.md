@@ -1,4 +1,12 @@
-# w80x_duino
+# fixed it
+## use this link
+> https://github.com/squishyu/nulllab_w80x_arduino/releases/download/0.0.1/package_w80x_proxy_index.json
+
+
+
+
+
+### w80x_duino
 w806为[联盛德](http://www.winnermicro.com/)公司推出一款基于平头哥（XT-E804）架构的MCU
 
 **W806芯片参数**
